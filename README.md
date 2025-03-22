@@ -33,7 +33,7 @@ A modern mobile implementation of the classic Flappy Bird game built with React 
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npx expo start
    ```
 
 ## 📱 How to Play
